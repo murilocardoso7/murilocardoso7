@@ -1,15 +1,13 @@
 # 💼 Portfólio Profissional – Cibersegurança & Administração de Sistemas
 
 Bem-vindo ao meu portfólio no GitHub.  
-Este espaço reúne meus projetos práticos nas áreas de segurança cibernética, administração de sistemas e automação de infraestrutura — organizados de forma clara, objetiva e profissional.
+Este espaço reúne meus projetos práticos nas áreas de segurança cibernética, administração de sistemas e automação de infraestrutura.
 
 ---
 
 ## 🌐 Sobre
 
 Sou profissional em formação na área de Defesa Cibernética, com foco em Blue Team, redes, automação e ambientes Windows Server. Este portfólio foi construído para demonstrar habilidades reais por meio de projetos aplicáveis ao ambiente corporativo.
-
-Mesmo sem longa experiência formal, acredito que trabalho bem feito fala por si — por isso, cada repositório aqui reflete estudo, prática e estratégia.
 
 ---
 
