@@ -13,7 +13,7 @@ Sou profissional em formação na área de Defesa Cibernética, com foco em Blue
 
 ## 🤝 Contato
 
-- 🔗 [LinkedIn – murilocardoso7](https://www.linkedin.com/in/murilocardoso7/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/murilocardoso7/)
 - 📧 contatemurilocardoso@gmail.com
 ---
 
