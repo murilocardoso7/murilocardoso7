@@ -11,18 +11,6 @@ Sou profissional em formação na área de Defesa Cibernética, com foco em Blue
 
 ---
 
-## 📂 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|--------------|
-| [Laboratório AD Doméstico](#) | Simulação de Active Directory com automação via PowerShell. | PowerShell, Windows Server |
-| [Configuração de RAS + NAT/PAT](#) | Ambiente com acesso remoto seguro configurado. | Windows Server, NAT/PAT |
-| [Gerenciamento de DNS/DHCP](#) | Implementação de serviços de rede estáveis. | DNS, DHCP, Windows Server |
-| [Servidor de Arquivos + Permissões NTFS](#) | Controle de acesso com cotas e segurança em arquivos. | NTFS, File Server |
-| [WAF e Honeypot Básico](#) | Projeto de segurança defensiva com baixo custo. | ModSecurity, Honeyd |
-
----
-
 ## 🤝 Contato
 
 - 🔗 [LinkedIn]((https://www.linkedin.com/in/murilocardoso7/))
