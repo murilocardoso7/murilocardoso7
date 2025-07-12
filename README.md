@@ -17,4 +17,3 @@ Sou profissional em formação na área de Defesa Cibernética, com foco em Blue
 - 📧 contatemurilocardoso@gmail.com
 ---
 
-**"O essencial é invisível aos olhos, mas visível no código."**
