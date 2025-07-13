@@ -7,7 +7,7 @@ Este espaço reúne meus projetos práticos nas áreas de segurança cibernétic
 
 ## 🌐 Sobre
 
-Sou profissional em formação na área de Defesa Cibernética, com foco em Blue Team, redes, automação e ambientes Windows Server. Este portfólio foi construído para demonstrar habilidades reais por meio de projetos aplicáveis ao ambiente corporativo.
+Sou profissional em formação na área de Defesa Cibernética. Este portfólio foi construído para demonstrar habilidades reais por meio de projetos aplicáveis ao ambiente corporativo.
 
 ---
 
