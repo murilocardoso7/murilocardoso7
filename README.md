@@ -5,8 +5,8 @@
 
 
 <div style="background-color: #f0f0f0; padding: 12px; border-radius: 6px;">
-Sou estudante e entusiasta de <b>Redes de Computadores</b> 
-<br>e <b>Segurança da Informação</b>, atualmente iniciando minha jornada prática em TI.<br>
+Sou estudante e entusiasta de <b>Redes de Computadores</b> e <b>Segurança da Informação</b>, 
+<br>atualmente iniciando minha jornada prática em TI.<br>
 Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b>
 <br>e <b>programação aplicada à infraestrutura</b>.
 </div>
