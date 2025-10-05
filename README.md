@@ -4,8 +4,11 @@
 <img src="https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86](https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86)](https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86" width="300px" align="right"/>
 
 
-Sou estudante e entusiasta de **Redes de Computadores** e **Segurança da Informação**, atualmente iniciando minha jornada prática em TI.  
-Tenho interesse em **simuladores de redes**, **sistemas operacionais** e **programação aplicada à infraestrutura**.
+<div style="background-color: #f0f0f0; padding: 12px; border-radius: 6px;">
+Sou estudante e entusiasta de <b>Redes de Computadores</b> e <b>Segurança da Informação</b>, atualmente iniciando minha jornada prática em TI.<br>
+Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b> e <b>programação aplicada à infraestrutura</b>.
+</div>
+
 
 ---
 
