@@ -5,12 +5,14 @@
 
 
 <div style="background-color: #f0f0f0; padding: 12px; border-radius: 6px;">
-Sou estudante e entusiasta de <b>Redes de Computadores</b> e <b>Segurança da Informação</b>, atualmente iniciando minha jornada prática em TI.<br>
-Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b> e <b>programação aplicada à infraestrutura</b>.
+Sou estudante e entusiasta de <b>Redes de Computadores</b> 
+<br>e <b>Segurança da Informação</b>, atualmente iniciando minha jornada prática em TI.<br>
+Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b>
+<br>e <b>programação aplicada à infraestrutura</b>.
 </div>
 
 
----
+<br><br>
 
 ## 🔧 Ferramentas e Tecnologias
 
@@ -21,13 +23,13 @@ Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b> e <
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-0d6efd?style=for-the-badge&logo=cisco&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+<br>
 
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilocardoso7)
 
----
+<br>
 
 ## 📌 Sobre mim
 - 🎓 Estudante de **Técnico em Redes de Computadores**  
@@ -35,7 +37,7 @@ Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b> e <
 - 🛠 Experiência prática com **simuladores e ambientes virtuais**  
 - 📖 Aprendendo **Python aplicado à automação de redes**  
 
----
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&locale=en&layout=compact" alt="murilocardoso7" /></p>
 
