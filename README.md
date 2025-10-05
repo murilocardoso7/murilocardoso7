@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&duration=2170&pause=100&center=true&multiline=true&repeat=false&random=true&width=990&height=170&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o+Murilo!;Eu+gosto+de+Redes+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&duration=2170&pause=100&center=true&multiline=true&repeat=false&width=990&height=170&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o+Murilo!;Eu+gosto+de+Redes+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86](https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86)](https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86" width="300px" align="right"/>
