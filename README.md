@@ -1,16 +1,36 @@
-## Hi there 👋
+#  Olá 👋, eu sou o Murilo!
 
-<!--
-**murilocardoso7/murilocardoso7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e entusiasta de **Redes de Computadores** e **Segurança da Informação**, atualmente iniciando minha jornada prática em TI.  
+Tenho interesse em **simuladores de redes**, **sistemas operacionais** e **programação aplicada à infraestrutura**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Ferramentas e Tecnologias
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-1e90ff?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-0d6efd?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilocardoso7)
+
+---
+
+## 📌 Sobre mim
+- 🎓 Estudante de **Técnico em Redes de Computadores**  
+- 💻 Interesse em **Segurança da Informação**  
+- 🛠 Experiência prática com **simuladores e ambientes virtuais**  
+- 📖 Aprendendo **Python aplicado à automação de redes**  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&locale=en&layout=compact" alt="murilocardoso7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilocardoso7&show_icons=true&locale=en" alt="murilocardoso7" /></p>
