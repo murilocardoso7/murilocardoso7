@@ -30,12 +30,6 @@ Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b>
 
 <br>
 
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilocardoso7)
-
-<br>
-
 ## 📌 Sobre mim
 - 🎓 Estudante de **Técnico em Redes de Computadores**  
 - 💻 Interesse em **Segurança da Informação**  
