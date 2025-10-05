@@ -9,10 +9,15 @@ Sou estudante e entusiasta de <b>Redes de Computadores</b> e <b>Segurança da In
 <br>atualmente iniciando minha jornada prática em TI.<br>
 Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b>
 <br>e <b>programação aplicada à infraestrutura</b>.
+<p align="center">
+  <a href="https://www.linkedin.com/in/murilocardoso7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 </div>
 
 
-<br><br>
+<br>
 
 ## 🔧 Ferramentas e Tecnologias
 
