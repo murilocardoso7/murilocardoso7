@@ -31,10 +31,22 @@ Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b>
 <br>
 
 ## 📌 Sobre mim
-- 🎓 Estudante de **Técnico em Redes de Computadores**  
-- 💻 Interesse em **Segurança da Informação**  
-- 🛠 Experiência prática com **simuladores e ambientes virtuais**  
-- 📖 Aprendendo **Python aplicado à automação de redes**  
+# Minha Relação com a Tecnologia  
+
+Minha relação com a tecnologia começou cedo, quando ganhei meu primeiro computador aos **6 anos**. 
+<br>A curiosidade em entender como tudo funcionava me levou a explorar, desmontar e reconstruir meus próprios experimentos,
+<br>criando uma base prática desde a infância.  
+
+Há **12 anos**, iniciei meus estudos de forma consciente e estruturada em **Tecnologia da Informação**,
+<br> dedicando-me a pesquisas e práticas que ampliaram minha compreensão de **redes de computadores** e **segurança da informação**.  
+
+Nesse período, aprimorei minha capacidade de aprender de forma **autodidata**, 
+<br>buscando constantemente soluções técnicas para problemas reais.  
+
+Atualmente, atuo como **Jovem Aprendiz em TI**, 
+<br>consolidando a experiência prática que complementa meus **mais de 20 anos em contato com a tecnologia** 
+<br>e uma década de dedicação séria aos estudos da área.  
+ 
 
 <br>
 
