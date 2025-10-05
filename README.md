@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&duration=2170&pause=60&width=990&height=70&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o+Murilo!;Eu+gosto+de+Redes+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&duration=2170&pause=100&multiline=true&width=990&height=170&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o+Murilo!;Eu+gosto+de+Redes+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 Sou estudante e entusiasta de **Redes de Computadores** e **Segurança da Informação**, atualmente iniciando minha jornada prática em TI.  
 Tenho interesse em **simuladores de redes**, **sistemas operacionais** e **programação aplicada à infraestrutura**.
@@ -28,8 +28,6 @@ Tenho interesse em **simuladores de redes**, **sistemas operacionais** e **progr
 - 📖 Aprendendo **Python aplicado à automação de redes**  
 
 ---
-
-## 📊 Estatísticas do GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&locale=en&layout=compact" alt="murilocardoso7" /></p>
 
