@@ -15,6 +15,7 @@ Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b>
   </a>
 </p>
 </div>
+</div>
 
 
 <br>
@@ -52,4 +53,3 @@ Atualmente, atuo como **Jovem Aprendiz em TI**,
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&locale=en&layout=compact" alt="murilocardoso7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilocardoso7&show_icons=true&locale=en" alt="murilocardoso7" /></p>
-</div>
