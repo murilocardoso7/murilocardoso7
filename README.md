@@ -32,7 +32,7 @@ Tenho interesse em <b>simuladores de redes</b>, <b>sistemas operacionais</b>
 <br>
 
 <details>
-  <summary><h2>💾 Minha Relação com a Tecnologia</h2></summary>
+  <summary><h2>Minha Relação com a Informática 💾</h2></summary>
 
   Minha relação com a tecnologia começou cedo, quando ganhei meu primeiro computador aos **6 anos**.  
   A curiosidade em entender como tudo funcionava me levou a explorar, desmontar e reconstruir meus próprios experimentos, criando uma base prática desde a infância.  
