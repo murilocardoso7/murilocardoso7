@@ -1,5 +1,6 @@
 
-
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Murilo!;Amo+redes+e+seguran%C3%A7a+da+informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <div align="center">
@@ -44,6 +45,6 @@ Atualmente, atuo como Jovem Aprendiz em TI, desenvolvendo experiência prática 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilocardoso7&show_icons=true&theme=default&hide_border=false&locale=pt-br" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&layout=compact&theme=default&locale=pt-br" alt="Linguagens Mais Usadas" />
 </div>
-
+</div>
 
 
