@@ -49,10 +49,11 @@ Atualmente, atuo como Jovem Aprendiz em TI, desenvolvendo experiência prática 
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&layout=compact&theme=default&locale=pt-br" alt="Linguagens Mais Usadas" />
     </td>
   </tr>
+  
 </table>
 
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=murilocardoso7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
