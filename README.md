@@ -40,11 +40,14 @@ Atualmente, atuo como Jovem Aprendiz em TI, desenvolvendo experiência prática 
 
 <p align="center" style="opacity:0.8;">⬩ ⬩ ⬩</p>
 
-
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilocardoso7&show_icons=true&theme=default&hide_border=false&locale=pt-br" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&layout=compact&theme=default&locale=pt-br" alt="Linguagens Mais Usadas" />
-</div>
+</p>
+
+
+
+
 </div>
 
 
