@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&duration=2170&pause=100&center=true&multiline=true&width=990&height=170&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o+Murilo!;Redes+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%7C+Infraestrutura+%7C+Linux)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Murilo!;Amo+redes+e+seguran%C3%A7a+da+informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86" width="280px" align="right" style="border-radius: 12px;"/>
@@ -13,9 +15,9 @@ Atualmente, desenvolvo competências em **administração de sistemas**, **simul
   </a>
 </p>
 
----
+<br><br>
 
-## ⚙️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -24,7 +26,7 @@ Atualmente, desenvolvo competências em **administração de sistemas**, **simul
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-1E90FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-0D6EFD?style=for-the-badge&logo=cisco&logoColor=white)
 
----
+<br><br>
 
 <details>
   <summary><h2>📘 Formação e Trajetória</h2></summary>
@@ -35,10 +37,12 @@ Atualmente, atuo como Jovem Aprendiz em TI, desenvolvendo experiência prática 
 
 </details>
 
----
+<p align="center" style="opacity:0.8;">⬩ ⬩ ⬩</p>
 
 
-<p align="center">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilocardoso7&show_icons=true&theme=default&hide_border=false&locale=pt-br" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&layout=compact&theme=default&locale=pt-br" alt="Linguagens Mais Usadas"/>
-</p>
+</div>
+
