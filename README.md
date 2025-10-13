@@ -20,13 +20,13 @@ Atualmente, desenvolvo competências em **administração de sistemas**, **simul
 
 ## Ferramentas e Tecnologias
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PNETLab](https://img.shields.io/badge/PNETLab-0A84FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-0D6EFD?style=for-the-badge&logo=cisco&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-virtualization-blue?logo=cisco)
+![Linux](https://img.shields.io/badge/Linux-system-black?logo=linux)
+![Bash](https://img.shields.io/badge/Bash-shell-darkgreen?logo=gnubash)
+![Python](https://img.shields.io/badge/Python-automation-blue?logo=python)
+![Ansible](https://img.shields.io/badge/Ansible-automation-black?logo=ansible)
+
+
 
 
 
