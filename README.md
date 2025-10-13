@@ -30,14 +30,7 @@ Atualmente, desenvolvo competências em **administração de sistemas**, **simul
 
 <br><br>
 
-<details>
-  <summary><h2>📘 Formação e Trajetória</h2></summary>
 
-Meu primeiro contato com a tecnologia ocorreu aos 6 anos, quando comecei a explorar computadores de forma autodidata. Desde então, mantenho uma relação contínua com o setor, somando 20 anos de experiência prática e mais de uma década de estudos direcionados a Tecnologia da Informação.
-
-Atualmente, atuo como Jovem Aprendiz em TI, desenvolvendo experiência prática em suporte técnico, infraestrutura e sistemas corporativos.
-
-</details>
 
 <p align="center" style="opacity:0.8;">⬩ ⬩ ⬩</p>
 
