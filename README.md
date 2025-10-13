@@ -28,8 +28,6 @@ Atualmente, desenvolvo competências em **administração de sistemas**, **simul
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-0D6EFD?style=for-the-badge&logo=cisco&logoColor=white)
 
-<br><br>
-
 
 
 <p align="center" style="opacity:0.8;">⬩ ⬩ ⬩</p>
