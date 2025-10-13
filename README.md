@@ -54,9 +54,6 @@ Atualmente, atuo como Jovem Aprendiz em TI, desenvolvendo experiência prática 
 </table>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=murilocardoso7)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </div>
 
 
