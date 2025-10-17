@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Murilo+Cardoso;Redes+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
-
 <img src="https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86" width="240px" align="right" style="border-radius:16px; margin-left:20px;"/>
 
 Estudante focado em **redes**, **automação** e **segurança da informação**.  
