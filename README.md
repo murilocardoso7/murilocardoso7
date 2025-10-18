@@ -1,35 +1,47 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/88e62895-1d98-4dcf-8b9b-5302854f3c86" width="240px" align="right" style="border-radius:16px; margin-left:20px;"/>
+<h1>Hello, world 🤖 make it automated.</h1>
 
-Estudante focado em **redes**, **automação** e **segurança da informação**.  
-Interesse em **infraestrutura**, **Linux** e **ambientes virtualizados**.
+<!-- Tech Icons -->
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,py,git" height="60" alt="skills logos" />
+</div>
 
-<br>
+<!-- Social -->
+<div>
+  <a href="https://linkedin.com/in/murilocardoso7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilocardoso7)
+<br/>
 
----
 
-### ⚙️ Ferramentas e Tecnologias
 
-![EVE-NG](https://img.shields.io/badge/EVE--NG-virtualization-blue?logo=cisco)
-![Linux](https://img.shields.io/badge/Linux-system-black?logo=linux)
-![Bash](https://img.shields.io/badge/Bash-shell-darkgreen?logo=gnubash)
-![Python](https://img.shields.io/badge/Python-automation-blue?logo=python)
-![Ansible](https://img.shields.io/badge/Ansible-automation-black?logo=ansible)
+<div align="center">
 
----
+  <!-- Linha com Stats + Languages -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=murilocardoso7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=4a6fa5&text_color=6b7280&icon_color=4a6fa5"
+      alt="stats graph"
+      height="150" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilocardoso7&layout=compact&hide_border=true&bg_color=ffffff&title_color=4a6fa5&text_color=6b7280"
+      alt="languages graph"
+      height="150" />
+  </div>
 
-<table style="width:100%;">
-  <tr>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilocardoso7&show_icons=true&theme=default&hide_border=false&locale=pt-br" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilocardoso7&show_icons=true&layout=compact&theme=default&locale=pt-br" alt="Linguagens Mais Usadas"/>
-    </td>
-  </tr>
-</table>
+  <!-- Gráfico de Atividade -->
+  <br/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=murilocardoso7&bg_color=ffffff&color=4a6fa5&line=4a6fa5&point=3b82f6&area_color=93c5fd&area=true&hide_border=true"
+    alt="activity graph"
+    height="300" />
+
+</div>
+
+
+
 
 </div>
