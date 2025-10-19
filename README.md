@@ -6,7 +6,9 @@
   <img src="https://skillicons.dev/icons?i=docker,linux,bash,py,git" height="60" alt="skills logos" />
 </div>
 
-
+<div>
+  ⬇️
+</div>
 <div>
   <a href="https://linkedin.com/in/murilocardoso7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
